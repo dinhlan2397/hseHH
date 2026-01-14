@@ -1,0 +1,7 @@
+{
+  "name": "SafetyHub - Nền tảng Huấn luyện An toàn HSE",
+  "description": "Một ứng dụng huấn luyện an toàn lao động chuyên sâu cho chuyên gia HSE, tích hợp AI để kiểm tra kiến thức và hỗ trợ phân tích rủi ro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
